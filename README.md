@@ -139,13 +139,33 @@ medicine-reminder/
 
 ## 💻 Preview
 
-***🖥️ Dashboard Example***
+***🏠 Home Page***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/home_page.png)
+Displays the landing page with quick access to features and navigation.
 
+***👤 User Login***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/user_login.png)
+Allows users to securely sign in to access their medicine dashboard.
+
+***➕ Adding Medicine***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/add_medicine.png)
+Users can add medicine details, dosage, and reminder schedules.
+
+***💊 Medicine Details***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/medicine_details.png)
+Shows all added medicines with their dosage and reminder information.
+
+***🖥️ Dashboard Example***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/dashboard.png)
 Displays total medicines & active reminders.
 
 ***📩 Email Notifications***
-
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/mail_notification.png)
 Arrive automatically at scheduled intervals.
+
+***📞 Contact Us Page***
+![image alt](https://github.com/Mohammed-Ismail-Github/medicine-reminder/blob/bbab7759675675e40f12f6e7fab1a0760617b33e/project_screenshots/contact_us.png)
+Provides contact information and support details for users.
 
 ## 🤝 Contributing
 
